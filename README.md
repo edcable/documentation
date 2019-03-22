@@ -13,3 +13,4 @@ Our model addresses these issues in several key ways:
 * Complete working open-source implementations of both sides of the interfaces - an example DFSP that can send and receive payments and the client that an existing DFSP could host to connect to the network.
 
 The intention for the Mojaloop project is for financial institutions and commercial providers to use the open-source software to help build digital, interoperable payments platforms that drive financial inclusion on a national scale. Specifically, the platforms will enable seamless, low-cost transactions between individual users, merchants, banks, providers, and even government offices - helping connect poor customers with everyone else in the digital economy.
+dsfdsfs
